@@ -1,2 +1,2 @@
 # Interior-designing-website
-This is my project of my intership program of web designing via backend node js and mysql as database.
+This is the project of my intership program of web designing via backend node js and mysql as database.
